@@ -83,7 +83,7 @@ VW12Mono45ADM Windows2012 (Apache2, Mono, MYSQL)
 VW12Mono45JDM Windows2012 (JBOSS, Mono, MySQL)
 VW8Mono45IDS Windows8 (IIS, Mono, SQL Server)
 
-#Linux Based [Dotnet] Vagrant Stacks
+#Linux Based Vagrant Stacks
 
 Mono2.0 [Dotnet v4.0] Stacks
 
