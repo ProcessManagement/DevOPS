@@ -1,7 +1,8 @@
 # DevOPS
 DevOPS is the internal environment to support Dotnet Based Development Operations with in Erls
+soon this repository would contain the stacks given underneath with the names and nomanclature.
 
-#Windows Based [Dotnet] Vagrant Stacks
+#Windows Based Vagrant Stacks
 
 Dotnet v3.5 Stacks
 
